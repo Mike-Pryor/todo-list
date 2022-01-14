@@ -17,7 +17,7 @@ body {
 }
 
 h1 { /* main title */
-  color: rgb(6, 15, 143);
+  color: rgb(1, 73, 134);
   font-size: 5rem;
   text-align: center;
   opacity: 0.9;
@@ -43,7 +43,7 @@ form {
 }
 
 .input:focus {
-  outline-color: rgb(6, 15, 143);
+  outline-color: rgb(1, 73, 134);
 }
 
 .todos {
